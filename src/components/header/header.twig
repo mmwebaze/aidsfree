@@ -1,0 +1,11 @@
+{{ attach_library('aidsfree/header') }}
+<div id="header-wrapper">
+    <div class="container">
+        <header>
+            <div class="row logos">
+                {{ page.header }}
+            </div>
+        </header>
+    </div>
+    {% include directory ~ '/src/components/menu/menu.twig' %}
+</div>

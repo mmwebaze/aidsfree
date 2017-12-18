@@ -1,0 +1,5 @@
+<?php
+function aidsfree_preprocess_html(array &$variables) {
+   // $filepath = drupal_get_path('theme', 'aidsfree').'/font-awesome/css/font-awesome.min.css';
+    //echo($filepath);
+}

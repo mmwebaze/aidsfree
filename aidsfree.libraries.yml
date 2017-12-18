@@ -1,0 +1,39 @@
+global-styling:
+   version: 1.0
+   css:
+    theme:
+      css/style.css : {}
+      font-awesome/css/font-awesome.min.css: {}
+#   js:
+     #js/your_js.js : {}
+
+global-scripts:
+  version: 1.0
+  js:
+    js/main.js: {}
+  dependencies:
+    - core/jquery
+
+#header library
+header:
+  css:
+    component:
+      src/components/header/header.css: {}
+
+#menu library
+menu:
+  css:
+    component:
+      src/components/menu/menu.css: {}
+
+#main library
+main:
+  css:
+    component:
+      src/components/main/main.css: {}
+
+#bottom library
+bottom:
+  css:
+    component:
+      src/components/bottom/bottom.css: {}

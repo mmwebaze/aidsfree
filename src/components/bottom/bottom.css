@@ -1,0 +1,37 @@
+#bottom ul li{
+    display: inline-block;
+
+}
+
+.social-links li a {
+    display: inline-block;
+    color: #ffffff;
+    border: 0 solid #ffffff;
+    background: #be1e2d;
+    border-radius: 100%;
+    height: 4em;
+    width: 4em;
+    padding: 0.5rem 0 0.1rem 0.425rem;
+    line-height: 1.45;
+    vertical-align: bottom;
+    border: 0 solid #be1e2d;
+    text-align: center;
+    font-size: 30px;
+    font-size: 1.875rem;
+    line-height: 1.45;
+}
+.social-links li a:hover, .social-links li a:active {
+    background: #ffffff;
+    color: #be1e2d;
+}
+ul.menu.social-links li {
+    margin: 0 .75em 0 0;
+}
+ul.menu.social-links li {
+    text-align: center;
+}
+ul.menu li {
+    margin: 0 0 0 0.5em;
+}
+
+

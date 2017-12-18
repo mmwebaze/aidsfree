@@ -1,0 +1,43 @@
+.item_ourmission{
+    background-color: #097296;
+    color: #fff;
+    height: 250px;
+    margin-top: 20px;
+}
+.item_ourmission h2{
+    padding-top: 20px;
+}
+
+.text_white {
+    color: #ffffff;
+}
+.focus_areas ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.focus_areas li {
+    float: left;
+    font-family: "Lato-n7", "Lato", "Geneva"
+
+}
+.focus_areas li a{
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+.focus-item {
+    text-align: center;
+    width: 16%;
+}
+.focus-item a{
+    color: #002750;
+    font-style: normal;
+    font-weight: bold;
+}
+.focus-item li a:hover {
+    color: #1e70bf;
+    color: #14487e;
+}

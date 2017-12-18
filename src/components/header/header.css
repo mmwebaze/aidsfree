@@ -1,0 +1,21 @@
+#header-wrapper {
+    background: #ffffff;
+    padding-top: 50px;
+}
+
+.logo_usaid {
+    align-items: left;
+    padding-right: .5rem;
+    text-align: left; }
+
+.logo_pepfar {
+    align-items: center;
+    text-align: center; }
+
+.logo_aidsfree {
+    align-items: right;
+    padding-left: .5rem;
+    text-align: right; }
+.logos{
+    padding-bottom: 10px;
+}

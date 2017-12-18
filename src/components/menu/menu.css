@@ -1,0 +1,28 @@
+#nav-wrapper {
+    background-color: #097296;
+}
+.region_menu {
+    display: inline-block;
+    vertical-align: middle;
+    height: 50px;
+}
+.region_menu ul{
+    list-style-type: none;
+    padding: 0;
+}
+.region_menu li {
+    float: right;
+    font-size: 16px;
+}
+.region_menu a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    padding: 0 10px;
+    text-transform: uppercase;
+    border-right: none;
+    font-weight: bold;
+}
+.region_menu li a:hover {
+    background-color:#064d66
+}

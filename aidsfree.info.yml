@@ -1,0 +1,21 @@
+name: aidsfree
+type: theme
+description: aidsfree theme
+package: Custom
+core: 8.x
+libraries:
+  - aidsfree/global-styling
+  - aidsfree/global-scripts
+
+component-libraries:
+  aidsfree:
+    paths:
+      - src/components
+      - src/templates
+
+regions:
+  header: aidsfree top header
+  menu: aidsfree menu region
+  content: aidsfree main content
+  footer: aidsfree main footer
+  social: social media region
